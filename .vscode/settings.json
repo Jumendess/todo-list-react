@@ -1,0 +1,5 @@
+{
+  "githubIssues.userCompletions.enabled": true,
+  "githubPullRequests.notifications": "off",
+  "githubIssues.issueCompletions.enabled": true
+}
